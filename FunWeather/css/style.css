@@ -1,0 +1,627 @@
+body {
+    
+    font-family: 'Ubuntu';
+    font-size: 18px;
+}
+
+/*Start Navbar*/
+
+.navbar {
+    
+    background-color: transparent;
+    border: none;
+}
+
+.navbar-default .navbar-nav>li>a{
+    
+    background-color: transparent;
+    color: #e1e1e1;
+    transition: all , 0.3s;
+    
+        
+}
+
+.navbar-default .navbar-nav>li>a:active
+{
+        color: #e1e1e1;
+
+}
+
+.btn-success
+{
+    background-color: #fc6a42;
+    color : #fff;
+    margin-right: 10px;
+}
+
+.btn-success:active
+{
+    background-color: #fc6a42;
+    color : #fff
+}
+
+.btn-success:hover, .btn-success:active, .btn-success:focus {
+  background-color: #fc6a42;
+    color : #fff
+}
+
+.btn-success:active:focus
+{
+    background-color: #fc6a42;
+    color : #fff
+}
+
+
+.btn-success:hover:focus
+{
+    background-color: #fc6a42;
+    color : #fff
+}
+
+
+
+
+.navbar-default .navbar-nav>.active>a{
+    background-color: transparent;
+    color: #fff;
+
+}
+
+.features
+{
+    opacity: 0;
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+    
+    background-color: transparent;
+    color: #fff;
+        
+}
+
+.navbar-default .navbar-nav>li>a:active{
+    
+    background-color: transparent;
+    color: #fff;
+        
+}
+
+.navbar-default .navbar-nav>li>a:focus{
+    
+    background-color: transparent;
+    color: #e1e1e1;
+        
+}
+
+.active
+{
+    background-color: transparent;
+    color: #fff;
+    
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover
+{
+    background-color: transparent;
+    color: #fff;
+}
+
+
+.navbar-default .navbar-nav>.active>a:hover{
+    background-color: transparent;
+    color: #fff;
+}
+
+
+
+.navbar-default .navbar-nav>.active>a:active{
+    background-color: transparent;
+    color: #fff ;
+}
+
+.btn-success {
+    background-color: #fc6a42 ;
+    color: #fff;
+    border: none;
+    width: 130px;
+    height: 40px;
+        
+}
+
+.row {
+    
+    display: inline;
+}
+
+
+
+.navbar-header{
+    display: inline;
+    
+   
+
+    
+}
+
+.navbar-brand {
+    
+    padding-left: 0;
+    
+    
+}
+
+.headerphone
+{
+    margin-left: 100px;
+}
+
+.navbar-default .navbar-brand {
+    
+    padding-right: 130px;
+    
+}
+
+
+.navbar-default .navbar-nav>.active>a{
+    
+    padding-right: 70px;
+     max-width: 550px;
+}
+
+.navbar-default .navbar-nav>li>a{
+    padding-right: 70px;
+}
+
+.navbar-default .navbar-nav>li>a{
+    padding-right: 70px;
+}
+
+.navbar-default .navbar-nav>li>a
+{
+    padding-right: 70px;
+}
+
+.row1{
+    display: inline;
+    width: 50%;
+    max-width:  552px;
+    max-height: 631px;
+}
+
+
+.row2 {
+    
+    font-size: 60;
+    color : #fff;
+    float: left;
+    
+    width: 50%;
+    display: inline;
+    
+    
+
+
+}
+
+.collapse navbar-collapse
+{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+.scnrow{
+    
+    padding-top: 40px;
+    
+}
+
+
+#row{
+    
+}
+
+
+
+
+.btn-success:hover {
+    background-color: #fff ;
+    color: #fc6a42;
+    border: none;
+}
+
+.btn-default {
+    background-color: #4466c9;
+    color: #fff;
+    border: none;
+    width: 130px;
+    height: 40px;
+}
+
+.btn-default:hover {
+    background-color: #fff;
+    color: #4466c9;
+    border: none;
+}
+
+.btn-default:hover, .btn-default:active, .btn-default:focus {
+  background-color: #fff;
+    color: #4466c9;
+    border: none;
+}
+
+/*End Navbar*/
+
+/* Start Banner */
+
+.jumbotron {
+    background-image: url(../img/bg.png);
+    background-size: cover;
+    background-position: center;
+    background-color: transparent;
+    padding-bottom: 150px;
+    
+    
+    
+}
+
+.jumbotron h1{
+    padding-bottom: 40px;
+    max-width: 550px;
+    padding-top: 5px;
+}
+
+.jumbotron p{
+    padding-bottom: 40px;
+    max-width: 430px;
+}
+
+.title{
+    color: #648cff;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 600;
+    margin-top: 20px;
+    
+}
+
+
+
+.subtitle
+{
+    color: #999999;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500px;
+
+}
+
+.col-md-4
+{
+    color: #353854;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 50px;
+    
+   
+}
+
+.titlesub
+{
+    text-align: left;
+}
+
+.Full-title
+{
+        display: inline;
+
+}
+.diamond
+{
+    float: left;
+    padding-bottom: 70px;
+    padding-right: 20px;
+    padding-left: 30px;
+}
+
+.Full-subtitle
+{
+    font-size: 16px;
+    color: #aeaeae;
+    font-weight: normal;
+    line-height: 170%;
+    
+}
+
+.simple-widgets
+{
+    
+}
+
+.widgets
+{
+    text-align: center;
+    
+}
+
+.left-arrow
+{
+    
+    margin-right: 100px;
+}
+
+.right-arrow
+{
+    
+    margin-left: 100px;
+}
+
+.screens{
+    
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.first-screenshot
+{
+    text-align: center;
+    align-self: center;
+    margin-bottom: 300px;
+    
+}
+
+.second-screenshot
+{
+    text-align: center;
+    margin-bottom: 300px;
+        
+}
+
+.third-screenshot
+{
+    text-align: center;
+    margin-bottom: 300px;
+}
+
+.cloudy
+{
+    
+    float: left;
+    margin-right: 70px;
+    
+}
+
+
+
+.sunny
+{
+    
+    float: right;
+    margin-left: 90px;
+}
+
+.rainy
+{
+    
+    float: left;
+    margin-right: 70px;
+}
+
+.screen-tittle
+{
+    color: #648cff;
+    
+    font-size: 36px;
+    font-weight: 600;
+    padding-top: 30px;
+    
+}
+
+.screen-subtittle
+{
+    color: #353854;
+    font-size: 24px;
+    display: inline;
+
+    
+}
+
+.screen-text
+{
+    
+    text-align: left;
+    padding-top: 150px;
+    padding-left: 200px;
+    
+}
+
+.features-section
+{
+    margin-right: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-top: 10px;
+    
+    
+}
+
+
+.reviews
+{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    
+}
+.review-par
+{
+    color: #353854;
+    font-size: 24px;
+    font-weight: 80%;
+    float: left;
+    
+}
+
+.quote-start
+{
+    float: left;
+}
+
+.quote-end
+{
+    float: right;
+    margin-top: 40px;
+}
+
+
+
+.review-person
+{
+    color: #353854;
+    font-size: 18px;
+    float: left;
+}
+
+.quotes-ic
+{
+    margin-bottom: 20px;
+    margin-top:30px;
+}
+
+.quotes-icend
+{
+    float: right;
+    margin-top: 30px;
+    margin-right: 10px;
+    
+    
+    
+}
+
+.downloads
+{
+    background-color: #648cff;
+    
+}
+
+.download
+{
+    color: #fff;
+    
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    
+
+}
+
+.subdownload
+{
+    color: #fff;
+    text-align: left;
+    font-size: 18px;
+    font-weight: 500px;
+    display: inline;
+    margin-bottom: 30px;
+    
+}
+
+.playstore
+{
+    margin-top: 30px;
+   
+}
+
+.appstore
+{
+    margin-top: 30px;
+    margin-right: 10px;
+}
+
+.footer
+{
+    background-color: #353854;
+    
+}
+
+.phone-section
+{
+    float:right;
+    
+    display: inline;
+}
+
+.download-info
+{
+    font-size: 60;
+    color : #fff;
+    float: left;
+    
+    width: 50%;
+    display: inline;
+    padding-top: 10px;
+
+    
+}
+
+
+
+.phone-back
+{
+    display: inline;
+    width: 50%;
+}
+
+.All
+{
+    margin-top: 50px;
+}
+
+.footer
+{
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+
+.line
+{
+    display: block;
+    height: 1px ;
+    color:#434769;
+    background-color: solid #434769;
+    border-bottom: 1px solid #434769;
+    margin-top: 60px;
+}
+
+.line hr
+{
+    border-top :1px solid #434769;
+    
+}
+
+.dedication
+{
+    text-align: right;
+    font-size: 14px;
+    color: #525781;
+    margin-top: 60px;
+}
+
+.heart
+{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+
+
+
+
+
+
+/* End Banner */
