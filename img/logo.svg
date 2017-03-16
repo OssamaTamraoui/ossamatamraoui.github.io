@@ -10,9 +10,9 @@
 	.st2{display:none;fill:none;stroke:#FF1654;stroke-width:9.082929e-002;}
 	.st3{display:none;fill:none;stroke:#FF1654;stroke-width:6.562500e-002;}
 	.st4{display:none;fill:none;stroke:#FF1654;stroke-width:0.1875;}
-	.st5{fill:#167EFF;stroke:#167EFF;stroke-width:0.1;stroke-miterlimit:10;}
-	.st6{font-family:'SegoeUI-Semibold';}
-	.st7{font-size:2px;}
+	.st5{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.1;stroke-miterlimit:10;}
+	.st6{font-family:'TwCenMT-Regular';}
+	.st7{font-size:2.3px;}
 </style>
 <defs>
 	
@@ -63,5 +63,5 @@
 </g>
 <g id="g4910" transform="translate(0.01098633,-1.4941404)" inkscape:label="Right Diagonal" inkscape:groupmode="layer">
 </g>
-<text transform="matrix(1 0 0 1 -303.4822 397.4772)" class="st5 st6 st7">O</text>
+<text transform="matrix(1 0 0 1 -303.6586 397.4771)" class="st5 st6 st7">O</text>
 </svg>
