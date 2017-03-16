@@ -86,7 +86,7 @@ document.getElementById("sheet").addEventListener("mousemove", function (event) 
 
 	ctx.beginPath();
 	ctx.arc(x, y, 3, 0, Math.PI * 2, false);
-	ctx.fillStyle = "#167eff";
+	ctx.fillStyle = "#e5e1ee";
 	ctx.fill();
 	ctx.closePath();
 });
