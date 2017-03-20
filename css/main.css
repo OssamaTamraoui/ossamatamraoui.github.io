@@ -472,6 +472,7 @@ li.worklement:nth-child(even) {
 
 .worklementmobile.quotations {
   background-image: url("../img/quotations/mobile.png");
+  background-image: url("../img/quotations/mobile.png");
 }
 
 .worklementdesktop.portfo {
@@ -480,6 +481,7 @@ li.worklement:nth-child(even) {
 
 .worklementmobile.portfo {
   background-image: url("../img/portfo/mobile.png");
+  
 }
 
 .worklementdesktop.stepstosuccess {
